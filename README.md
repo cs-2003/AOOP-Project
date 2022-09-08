@@ -1,3 +1,3 @@
-# AOOP-Project
-Online Voting System.
-Project contributors are Sumeet Sharma , T.ChandraSekhar and Amaan Hussain
+# Online Voting System
+
+Project contributors: Sumeet Sharma , T.ChandraSekhar and Amaan Hussain.
